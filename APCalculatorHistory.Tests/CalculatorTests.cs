@@ -1,3 +1,4 @@
+
 namespace APCalculatorHistory.Tests;
 
 public class CalculatorTests
