@@ -1,3 +1,5 @@
+
+using APCalculatorHistory;
 public partial class MultiplyTest{
 
     [Fact]

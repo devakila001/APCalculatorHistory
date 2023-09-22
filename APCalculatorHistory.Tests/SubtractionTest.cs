@@ -1,3 +1,6 @@
+using static APCalculatorHistory.Calculator;
+using APCalculatorHistory;
+
 public partial class SubtractionTest{
     [Fact]
     public void CheckIf9Minus6Is3Test()

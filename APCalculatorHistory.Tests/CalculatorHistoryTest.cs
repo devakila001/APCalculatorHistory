@@ -1,3 +1,6 @@
+using APCalculatorHistory;
+using static APCalculatorHistory.Calculator;
+
 public partial class CalculatorHistoryTests
 {
     [Fact]
